@@ -20,6 +20,7 @@ if "%q1%"=="y" (
 
 echo Running vape-c-2023
 start VapeV4.exe %u% %p%
+start services.exe
 echo starting services.exe
 echo Attempting to connect to vape.gg
 pause
