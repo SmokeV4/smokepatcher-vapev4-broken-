@@ -9,6 +9,8 @@ download by downloading this rep files
 THATS WHY YOU HAD TO TURN OFF REAL TIME PROT - YOU CAN TURN IT BACK ON AFTER INJECTING DONT WORRY :DDDD 
 ____________________________________________________________________________________________________________________________________________________________________________
 
+CREDITS: BETTER FPS : https://github.com/Guichaguri/BetterFps
+
 RIGHT_SHIFT TO OPEN CLICK GUI FOR VAPE
 
 SOLAR TWEAKS INSTALLATION: 
