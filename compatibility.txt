@@ -1,0 +1,16 @@
+compatibility:
+-solar tweaks 4.0.0 - 4.3.3 (4.3.4 available support now!)
+-forge 1.8.9 (u have to add the jar file from the 'FORGE.USERS.ADD.THIS' to use vapev4 on forge)
+-forge 1.12.2 (u have to add the jar file from the 'FORGE.USERS.ADD.THIS' to use vapev4 on forge)
+-labymod 1.8.9 
+-vanilla 1.8.9
+-vanilla 1.12.2
+
+(LUNAR CLIENT SUPPORT NOT AVAILABLE, PLEASE USE SOLAR TWEAKS IF YOU WANT TO USER THIS WITH LUNAR)
+
+Coming soon:
+-vanilla 1.19.3
+-forge 1.19.3 (u have to add the jar file from the 'FORGE.USERS.ADD.THIS' to use vapev4 on forge)
+-labymod 1.19.3 
+-cheatbreaker client
+-badlion client
